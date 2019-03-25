@@ -1,6 +1,13 @@
 # GateDetector
 AGH Drone Egineering attempt to make gate detector algorythm for Alpha Pilot Challenge
 
+To run the program, run detector.py
+
+# Requirements
+- darkflow: https://github.com/thtrieu/darkflow
+-tensorflow
+-opencv
+
 
 ![alpha1](https://i.imgur.com/ysXRc9R.png)
 
