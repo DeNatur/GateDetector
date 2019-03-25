@@ -5,7 +5,9 @@ To run the program, run detector.py
 
 # Requirements
 You will need three additional files:
+
 yolo weights: https://drive.google.com/drive/folders/1SkTj4s6jwr7jPef7NJRQqRGQGJ2dW4m4?usp=sharing
+
 yolo cfg: https://drive.google.com/file/d/1ojsw1MjixnqCX6rpo7xUE09n-3DKHEUE/view?usp=sharing
 
 -darkflow: https://github.com/thtrieu/darkflow
