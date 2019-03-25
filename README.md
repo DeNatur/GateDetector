@@ -1,5 +1,5 @@
 # GateDetector
-AGH Drone Egineering attempt to make gate detector algorythm for Alpha Pilot Challenge
+AGH Drone Egineering attempt to make gate detector algorithm for Alpha Pilot Challenge
 
 To run the program, run detector.py
 
